@@ -6,6 +6,8 @@ Um script simples e eficiente em Bash para automatizar a rotina diária de atual
 Para manter o ambiente de desenvolvimento sempre atualizado sem precisar digitar múltiplos comandos manualmente, este script empacota as seguintes rotinas:
 1. `apt update`: Atualiza as listas de pacotes dos repositórios.
 2. `apt upgrade -y`: Instala as versões mais recentes dos pacotes de forma silenciosa.
+3. `apt autoremove -y`: Remove dependências e bibliotecas órfãs que não são mais utilizadas pelo sistema.
+4. `apt clean`: Esvazia o cache local, liberando espaço em disco.
 
 ## 📋 Como utilizar
 
