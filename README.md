@@ -11,4 +11,4 @@ Para manter o ambiente de desenvolvimento sempre atualizado sem precisar digitar
 
 1. Clone este repositório:
    ```bash
-   git clone [https://github.com/SEU_USUARIO/ubuntu-quick-updater.git](https://github.com/PabloAnbai/ubuntu-quick-updater.git)
+   git clone [https://github.com/PabloAnbai/ubuntu-quick-updater.git](https://github.com/PabloAnbai/ubuntu-quick-updater.git)
